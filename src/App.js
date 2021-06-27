@@ -2,7 +2,7 @@ import './style.css';
 
 const React = require("react");
 const marked = require("marked")
-const Prism = require("prismjs")
+ß
 
 marked.setOptions({
   breaks: true
