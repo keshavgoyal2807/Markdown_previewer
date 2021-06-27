@@ -2,7 +2,6 @@ import './style.css';
 
 const React = require("react");
 const marked = require("marked")
-ß
 
 marked.setOptions({
   breaks: true
